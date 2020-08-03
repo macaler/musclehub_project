@@ -6,4 +6,4 @@ I used Python 3.8 to complete this project, in addtion to Jupyter Notebook. Pack
 
 I wrote a Microsoft PowerPoint presentation outlining the main results and conclusions of this project; I have included it as "musclehub_project.pdf."
 
-Also, a file containing the SQL searches used to gather and analyze the data in this project is provided; it is included as "musclehub_MAC_solution.pdf"
+My Jupyter Notebook print-out is included as "musclehub_MAC_solution.pdf"
